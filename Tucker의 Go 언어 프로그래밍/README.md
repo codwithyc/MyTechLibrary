@@ -4,19 +4,20 @@
 
 ## 목차
 
-- <a href="">00.1 개발 환경 구축 - 윈도우</a>
-- <a href="">00.2 개발 환경 구축 - MacOS</a>
-- <a href="">00.3 개발 환경 구축 - 리눅스</a>
+- 00. 개발 환경 구축 - 윈도우, MacOS, 리눅스
 
 ### 1단계 탄탄하게 기초 문법 다지기
 
-- <a href="">01. Hello Go World</a>
-    - <a href="">1.1 Go 역사</a>
-    - <a href="">1.2 Go 언어 특징</a>
-    - <a href="">1.3 코드가 실행되기까지</a>
-    - <a href="">1.4 Hello Go World 코드 뜯어보기</a>
+- <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EC%9E%A5%20Hello%20Go%20World/Hello%20Go%20World.md#hello-go-wolrd">01. Hello Go World</a>    
+    - 1.1 Go 역사
+    - 1.2 Go 언어 특징
+    - 1.3 코드가 실행되기까지
+    - 1.4 Hello Go World 코드 뜯어보기
 
-- <a href="">02. 변수</a>
+> 1장은 불필요하다고 판단 되는 내용을 제외 하고 필요한 부분만 각색해서 작성하였습니다.  
+> Hello Go World만 보면 됩니다.
+
+- 02. 변수
     - <a href="">2.1 변수란?</a>
     - <a href="">2.2 변수 선언</a>
     - <a href="">2.3 변수에 대해 더 알아보기</a>

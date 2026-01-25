@@ -101,7 +101,7 @@ go run main.go
 현재 폴더 전체를 실행 대상으로 삼고 싶다면
 
 ```bash
-go run.
+go run .
 ```
 
 실행 파일을 만들고 싶다면

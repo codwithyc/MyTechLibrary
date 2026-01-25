@@ -38,6 +38,8 @@
     - 3.2 표준 입력
     - 3.3 키보드 입력과 Scan( ) 함수의 동작 원리
     - 핵심 요약 / 연습문제
+    - <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/3%EC%9E%A5%20fmt%20%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EC%B6%9C%EB%A0%A5/%ED%91%9C%EC%A4%80%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B3%BC%20%ED%84%B0%EB%AF%B8%EB%84%90%20%EC%8B%A4%ED%96%89%20%ED%9D%90%EB%A6%84%20%EC%B6%94%EA%B0%80%20%EC%84%A4%EB%AA%85.md#%ED%91%9C%EC%A4%80-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B3%BC-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%8B%A4%ED%96%89-%ED%9D%90%EB%A6%84-%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85">3.4 표준 스트림과 터미널 실행 흐름 추가 설명</a>  
+        - `fmt`를 배우는 과정에서 함께 이해하면 좋은 stdin, stdout, stderr, 리다이렉션과 파이프 흐름을 정리했습니다.
 
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 `fmt` 패키지, 표준 입출력, 출력 형식, `Scan()` 함수의 동작 원리와 입력 처리 흐름을 담았습니다.

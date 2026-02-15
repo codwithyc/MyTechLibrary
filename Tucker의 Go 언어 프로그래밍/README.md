@@ -76,6 +76,8 @@
     - 6.3 타입 없는 상수
     - 6.4 상수와 리터럴
     - 핵심 요약 / 연습문제
+    - <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/6%EC%9E%A5%20%EC%83%81%EC%88%98/gofmt%EC%99%80%20%EC%BD%94%EB%93%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%B6%94%EA%B0%80%20%EC%84%A4%EB%AA%85.md#gofmt%EC%99%80-%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85">6.5 gofmt와 코드 스타일 추가 설명</a>  
+        - `const` 블록을 다루며 함께 익히면 좋은 `gofmt`, 저장 시 자동 포맷, Go 코드 스타일 기준을 정리했습니다.
 
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 `const`, `iota`, 타입 없는 상수, 리터럴과 상수를 사용하는 기준을 담았습니다.

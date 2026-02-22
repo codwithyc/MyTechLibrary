@@ -74,12 +74,15 @@
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 `const`, `iota`, 타입 없는 상수, 리터럴과 상수를 사용하는 기준을 담았습니다.
 
-- <a href="">07. if문</a>
+- <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/7%EC%9E%A5%20if%EB%AC%B8/if%EB%AC%B8.md#if%EB%AC%B8">07. if문</a>
     - 7.1 if문 기본 사용법
     - 7.2 그리고 &&, 또는 ||
     - 7.3 중첩 if
     - 7.4 if 초기문; 조건문
     - 핵심 요약 / 연습문제
+
+> 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
+> 이번 장에는 if문의 기본 구조, `else if`, 논리 연산자를 활용한 조건 조합, 중첩 if, if 초기문을 담았습니다.
 
 - <a href="">08. switch문</a>
     - 8.1 switch문 동작 원리

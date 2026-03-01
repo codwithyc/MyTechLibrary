@@ -101,6 +101,8 @@
     - 8.4 const 열거값과 switch
     - 8.5 break와 fallthrough 키워드
     - 핵심 요약 / 연습문제
+    - <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/8%EC%9E%A5%20switch%EB%AC%B8/%EA%B0%92%20%EB%B6%84%EB%A5%98%EC%99%80%20%EC%97%B4%EA%B1%B0%ED%98%95%20%EC%97%86%EB%8A%94%20Go%20%EC%B6%94%EA%B0%80%20%EC%84%A4%EB%AA%85.md#%EA%B0%92-%EB%B6%84%EB%A5%98%EC%99%80-%EC%97%B4%EA%B1%B0%ED%98%95-%EC%97%86%EB%8A%94-go-%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85">8.6 값 분류와 열거형 없는 Go 추가 설명</a>  
+        - `switch` 학습과 함께 알아두면 좋은 Go의 enum 부재, 사용자 정의 타입, 값 유효성 검사 흐름을 정리했습니다.
 
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 switch문의 동작 원리, 다양한 switch 형태, 상수 열거값과 switch, `break`와 `fallthrough`의 차이를 담았습니다.

@@ -95,14 +95,17 @@
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 switch문의 동작 원리, 다양한 switch 형태, 상수 열거값과 switch, `break`와 `fallthrough`의 차이를 담았습니다.
 
-- <a href="">09. for문</a>
+- <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/9%EC%9E%A5%20for%EB%AC%B8/for%EB%AC%B8.md#for%EB%AC%B8">09. for문</a>
     - 9.1 for문 동작 원리
     - 9.2 continue와 break
     - 9.3 중첩 for문
     - 9.4 중첩 for문과 break, 레이블
     - 핵심 요약 / 연습문제
 
-- <a href="">10. 배열</a>
+> 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
+> 이번 장에는 Go의 유일한 반복문인 for문, `continue`, `break`, 조건만 있는 반복문, 중첩 반복문과 레이블을 담았습니다.
+
+- <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/10%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4.md#%EB%B0%B0%EC%97%B4">10. 배열</a>
     - 10.1 배열
     - 10.2 배열 사용법
     - 10.3 배열은 연속된 메모리

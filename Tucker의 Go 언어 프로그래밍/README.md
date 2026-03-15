@@ -112,7 +112,10 @@
     - 10.4 다중 배열
     - 핵심 요약 / 연습문제
 
-- <a href="">11. 구조체</a>
+> 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
+> 이번 장에는 배열 선언, 인덱스, `len`과 `range`, 연속된 메모리 구조, 값 타입으로서의 배열과 다중 배열을 담았습니다.
+
+- <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4/%EA%B5%AC%EC%A1%B0%EC%B2%B4.md#%EA%B5%AC%EC%A1%B0%EC%B2%B4">11. 구조체</a>
     - 11.1 선언 및 기본 사용
     - 11.2 구조체 변수 초기화
     - 11.3 구조체를 포함하는 구조체

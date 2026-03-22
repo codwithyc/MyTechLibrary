@@ -138,6 +138,8 @@
     - 11.4 구조체 크기
     - 11.5 프로그래밍에서 구조체의 역할
     - 핵심 요약 / 연습문제
+    - <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/11%EC%9E%A5%20%EA%B5%AC%EC%A1%B0%EC%B2%B4/%EA%B3%B5%EA%B0%9C%20API%EC%99%80%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B2%BD%EA%B3%84%20%EC%B6%94%EA%B0%80%20%EC%84%A4%EB%AA%85.md#%EA%B3%B5%EA%B0%9C-api%EC%99%80-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B2%BD%EA%B3%84-%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85">11.6 공개 API와 패키지 경계 추가 설명</a>  
+        - 구조체 필드의 대소문자에서 이어지는 공개 API, 패키지 경계, 주석 문서화 기준을 정리했습니다.
 
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 구조체 선언, 필드 접근, 구조체 초기화, 구조체를 포함하는 구조체, 구조체 크기와 역할을 담았습니다.

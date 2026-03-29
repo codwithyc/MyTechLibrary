@@ -150,6 +150,8 @@
     - 12.3 인스턴스
     - 12.4 스택 메모리와 힙 메모리
     - 핵심 요약 / 연습문제
+    - <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%8B%A8%EA%B3%84%20%ED%83%84%ED%83%84%ED%95%98%EA%B2%8C%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EB%8B%A4%EC%A7%80%EA%B8%B0/12%EC%9E%A5%20%ED%8F%AC%EC%9D%B8%ED%84%B0/escape%20analysis%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%B6%94%EA%B0%80%20%EC%84%A4%EB%AA%85.md#escape-analysis%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85">12.5 escape analysis와 메모리 생명주기 추가 설명</a>  
+        - 포인터를 배우며 함께 알아두면 좋은 지역 변수 주소 반환, escape analysis, GC와 메모리 생명주기를 정리했습니다.
 
 > 1장과 마찬가지로, 불필요하다고 판단한 내용은 제외하고 해당 목차에 포함된 내용을 새롭게 재구성해 작성했습니다.  
 > 이번 장에는 주소와 역참조, 포인터가 필요한 이유, 함수와 포인터, nil 포인터, 인스턴스, 스택과 힙 메모리의 기본 개념을 담았습니다.

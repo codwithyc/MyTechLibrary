@@ -193,13 +193,15 @@
 
 ### 2단계 고급 기법으로 Go 레벨업하기
 
-- <a href="">16. 슬라이스</a>
-    - <a href="">16.1 슬라이스</a>
-    - <a href="">16.2 슬라이스 동작 원리</a>
-    - <a href="">16.3 슬라이싱</a>
-    - <a href="">16.4 유용한 슬라이싱 기능 활용</a>
-    - <a href="">16.5 슬라이스 정렬</a>
-    - <a href="">핵심 요약 / 연습문제</a>
+- <a href="https://github.com/codwithyc/MyTechLibrary/blob/main/Tucker%EC%9D%98%20Go%20%EC%96%B8%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2%EB%8B%A8%EA%B3%84%20%EA%B3%A0%EA%B8%89%20%EA%B8%B0%EB%B2%95%EC%9C%BC%EB%A1%9C%20Go%20%EB%A0%88%EB%B2%A8%EC%97%85%ED%95%98%EA%B8%B0/16%EC%9E%A5%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4.md#%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4">16. 슬라이스</a>
+    - 16.1 슬라이스
+    - 16.2 슬라이스 동작 원리
+    - 16.3 슬라이싱
+    - 16.4 유용한 슬라이싱 기능 활용
+    - 16.5 슬라이스 정렬
+    - 핵심 요약 / 연습문제
+
+> 16장은 10장 배열의 연장선에서, 슬라이스의 내부 구조와 `len`, `cap`, `append()`, `copy()`, 정렬까지 한 번에 이어서 이해할 수 있도록 재구성했습니다.
 
 - <a href="">17. 메서드</a>
     - <a href="">17.1 메서드 선언</a>

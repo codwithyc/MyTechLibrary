@@ -12,6 +12,7 @@
 
 ## 📖 독서 현황
 - 혼자 공부하는 컴퓨터 구조 + 운영체제 - 강민철 (ing)
+- 운영체제 - Abraham Silberschatz , Peter Baer Galvin , Greg Gagne
 - 핵심 데이터 통신 - 조현준 (End)
 - IT 엔지니어를 위한 네트워크 입문 - 고재성, 이상훈
 - 시스코 네트워킹 - 진강훈
